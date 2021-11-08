@@ -1,4 +1,4 @@
-# DZIKIRAPP SKL ke-1 IDN
+# DZIKIR APP SKL ke-1 IDN
 
 ##  Minggu ke-1 2021 saya telah belajar:
 * Saya telah belajar Tampilan Splash Screen.

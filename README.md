@@ -1,15 +1,15 @@
-# DZIKIRAPP SKL ke-2 IDN
+# DZIKIRAPP SKL ke-1 IDN
 
 ##  Minggu ke-1 2021 saya telah belajar:
-* Saya telah belajar  Tampilan Splash Screen.
+* Saya telah belajar Tampilan Splash Screen.
 <img width="349" alt="Screen Shot 2021-11-08 at 08 39 56" src="https://user-images.githubusercontent.com/68719137/140672139-11e10aa0-3d10-4511-a19b-a4f63577f56c.png">
-* Saya telah belajar  Splash Screen.
+* Saya telah belajar Splash Screen.
 <img width="355" alt="Screen Shot 2021-11-08 at 08 40 15" src="https://user-images.githubusercontent.com/68719137/140672217-64c54ecc-9637-48b4-a17b-c5dc869061a2.png">
 
 
 
 ##  Minggu ke-2 2021 saya telah belajar:
-* Saya telah belajar Perubahan ActionBar di MainActivity.
+* Saya telah belajar  Perubahan ActionBar di MainActivity.
 <img width="347" alt="Screen Shot 2021-11-08 at 08 40 25" src="https://user-images.githubusercontent.com/68719137/140672255-fa95914a-b13a-46ec-afcb-e3b62e8c890f.png">
 * Saya telah belajar Constraint to Parent
 <img width="350" alt="Screen Shot 2021-11-08 at 08 40 34" src="https://user-images.githubusercontent.com/68719137/140672349-0547c2c2-aabe-4569-885a-63bf55585be8.png">
